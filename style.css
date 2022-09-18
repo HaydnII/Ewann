@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wtm{
+    font-size: 50px;
+    color: gray;
+    margin-top: auto;
+    margin-left: 50px;
+    margin-bottom: auto;
+
+}
+
+body{
+    background-color: white;
+}
+
+
+.logo{
+    width: 200px;
+}
+
+.header{
+    background-color: rgb(94, 89, 89);
+    display: flex;
+}
+
+.savoirplus{
+    font-size: 50px;
+    margin-top: auto;
+    margin-left: 300px;
+    margin-bottom: auto;
+    
+
+    
+    
+}
+.montre{
+    width: 75%;
+    height:auto;
+    display: block;
+    margin-right: auto;
+    
+
+}
+
+.montree{
+    background-color: black;
+}
+
+.prix{
+    background: black;
+    color: wheat;
+    font-size: 50px;
+    text-align: center;
+}
+
+.container{
+    background: white;
+    display: flex;
+}
+
+.imagepre{
+    margin-left: 40%;
+}
+
+.prestxt{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    
+}
+
+.cara{
+    display: flex;
+
+}
+
+.car{
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto
+}
+
+.presentation{
+    
+
+}
+
+html, body {
+   scroll-behavior: smooth;
+}
