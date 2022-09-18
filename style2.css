@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wtm{
+    font-size: 50px;
+    color: gray;
+    margin-top: auto;
+    margin-left: 50px;
+    margin-bottom: auto;
+
+}
+
+body{
+    background-color: rgb(185, 177, 177);
+}
+.logo{
+    width: 200px;
+}
+
+.header{
+    background-color: rgb(94, 89, 89);
+    display: flex;
+}
+
+.savoirplus{
+    font-size: 75px;
+    margin-top: auto;
+    margin-left: 300px;
+    margin-bottom: auto;
+    
+    
+    }
+.ensa{
+    text-align: center;
+    font-size: 50px;
+}
+
+.liste{
+    font-size: 30px;
+    text-align: center;
+    
+}
